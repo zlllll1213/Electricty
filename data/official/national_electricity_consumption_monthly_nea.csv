@@ -1,0 +1,23 @@
+date,consumption_billion_kwh,source,source_url,note
+2024-03,7942,国家能源局官网月度公告,https://www.nea.gov.cn/2024-04/17/c_1310771602.htm,真实公开数据
+2024-04,7412,国家能源局官网月度公告,https://www.nea.gov.cn/2024-05/17/c_1212363227.htm,真实公开数据
+2024-05,7751,国家能源局官网月度公告,https://www.nea.gov.cn/2024-06/20/c_1310779060.htm,真实公开数据
+2024-06,8205,国家能源局官网月度公告,https://www.nea.gov.cn/2024-07/19/c_1310782234.htm,真实公开数据
+2024-07,9396,国家能源局官网月度公告,https://www.nea.gov.cn/2024-08/22/c_1310785024.htm,真实公开数据
+2024-08,9649,国家能源局官网月度公告,https://www.nea.gov.cn/2024-09/20/c_1212399358.htm,真实公开数据
+2024-09,8475,国家能源局官网月度公告,https://www.nea.gov.cn/2024-10/19/c_1212405503.htm,真实公开数据
+2024-10,7742,国家能源局官网月度公告,https://www.nea.gov.cn/2024-11/20/c_1310787334.htm,真实公开数据
+2024-11,7849,国家能源局官网月度公告,https://www.nea.gov.cn/20241219/4130c6eff80341cca0b06da153624bfa/c.html,真实公开数据
+2024-12,8835,国家能源局官网年度与累计公告推导,https://fjb.nea.gov.cn/dtyw/gjnyjdt/202501/t20250122_275611.html | https://www.nea.gov.cn/20241219/4130c6eff80341cca0b06da153624bfa/c.html,由全年累计值推导
+2025-01,8130,国家能源局官网累计公告推导,https://www.nea.gov.cn/20250318/59408be749bc4342ac5fe6a3872229ef/c.html,由1-2月累计值减2月值推导
+2025-02,7434,国家能源局官网月度公告,https://www.nea.gov.cn/20250318/59408be749bc4342ac5fe6a3872229ef/c.html,真实公开数据
+2025-03,8282,国家能源局官网月度公告,https://www.nea.gov.cn/20250418/52ca88a4faa2475fb34695ca1632dd0d/c.html,真实公开数据
+2025-04,7721,国家能源局官网月度公告,https://www.nea.gov.cn/20250520/bca61e3e4cea4cf39e3f6e500ee11c07/c.html,真实公开数据
+2025-05,8096,国家能源局官网月度公告,https://www.nea.gov.cn/20250620/530a8b53f69a48d6b92aa8f0b1029d57/c.html,真实公开数据
+2025-06,8670,国家能源局官网月度公告,https://www.nea.gov.cn/20250721/17447e95efba4071b14cb053e5bd7856/c.html,真实公开数据
+2025-07,10226,国家能源局官网月度公告,https://www.nea.gov.cn/20250821/61e86284bb494f71ae78f24cd8c3236f/c.html,真实公开数据
+2025-08,10154,国家能源局官网月度公告,https://www.nea.gov.cn/20250922/4428f513f2f54d8ab4e30b6a0f12458c/c.html,真实公开数据
+2025-09,8886,国家能源局官网月度公告,https://www.nea.gov.cn/20251023/7c306606d6cf403c9e976cfd655e4733/c.html,真实公开数据
+2025-10,8572,国家能源局官网月度公告,https://www.nea.gov.cn/20251120/2f4b15f7b2474898a4ddff88dce11d46/c.html,真实公开数据
+2025-11,8356,国家能源局官网月度公告,https://www.nea.gov.cn/20251224/9a4b2fff6d6044e2a8c173442674f0af/c.html,真实公开数据
+2025-12,9080,国家能源局官网年度与累计公告推导,https://www.nea.gov.cn/20260121/715f7981745b4d9fb3495a2fdc4fa516/c.html | https://www.nea.gov.cn/20251224/9a4b2fff6d6044e2a8c173442674f0af/c.html,由全年累计值推导
